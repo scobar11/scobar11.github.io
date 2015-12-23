@@ -1,0 +1,32 @@
+
+
+.heading{background-color: yellow;}
+
+.ingredients{background-color: blue;
+width: 50%;
+float: right;
+}
+
+.instructions{background-color: pink;
+width: 50%;
+float: right;
+}
+
+.time{background-color: green;
+width: 50%;
+float: left;
+}
+
+.picture{background-color: red;
+	width: 50%;
+float: left;
+}
+
+.row{
+	width: 100%; display:inline-block;
+}
+
+.links{
+	width: 50%;
+float: left;
+}
